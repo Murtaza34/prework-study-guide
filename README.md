@@ -18,7 +18,7 @@ Not sure what you want to study? you can view a suggestion by opening the Chrome
 
 ## Credits
 
-N/A
+not applicable
 
 ## License
 
